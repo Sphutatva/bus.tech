@@ -1,0 +1,2 @@
+# bus.tech
+i was working on a project of magic mirror and when i run the command "DISPLAY=:0 npm start" i am getting(npm err! path /home/ppi/package.json,  npm err! code ENOENT, npm err! errno -2,  npm ERR! syscall open npm ERR! enoent ENOENT: no such file or directory, open '/home/pi/package.json' npm ERR! enoent This is related to npm not being able to find a file. npm ERR! enoent   npm ERR! A complete log of this run can be found in: npm ERR!     /home/pi/.npm/_logs/2019-04-29T16_10_19_076Z-debug.log) Can any one help me solving this.
